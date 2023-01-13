@@ -11,7 +11,7 @@
 🌱 rlawngus98998@gmail.com 🌱 <br/>
 🌱 9999kjh@naver.com 🌱
 
-## My Activity
+## My Daily
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunnyKim98&theme=solarized&utcOffset=8)
 
 ## Language
