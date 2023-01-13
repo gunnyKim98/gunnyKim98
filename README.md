@@ -2,14 +2,21 @@
 
 
 ## My Stats
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gunnyKim98&show_icons=true&theme=dark)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunnyKim98&theme=solarized)
 
 ## Visitors
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgunnyKim98&count_bg=%238F3DC8&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgunnyKim98&count_bg=%238F3DC8&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Contact
 🌱 rlawngus98998@gmail.com 🌱 <br/>
 🌱 9999kjh@naver.com 🌱
+
+## My Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunnyKim98&theme=solarized&utcOffset=8)
+
+## Language
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **gunnyKim98/gunnyKim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
